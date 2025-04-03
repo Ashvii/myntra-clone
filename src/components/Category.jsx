@@ -36,11 +36,18 @@ function Category() {
           <img src="IMAGES/66.jpeg" alt="" style={{ maxHeight: '350px', maxWidth: '250px' }} />
           <img src="IMAGES/67.jpeg" alt="" style={{ maxHeight: '350px', maxWidth: '250px' }} />
         </div>
-        <div className="row5 d-flex justify-content-center align-items-center">
-          <img src="IMAGES/68.jpeg" alt="" style={{ maxHeight: '350px', maxWidth: '250px' }} />
-          <img src="IMAGES/69.jpeg" alt="" style={{ maxHeight: '350px', maxWidth: '250px' }} />
-          <img src="IMAGES/70.jpeg" alt="" style={{ maxHeight: '350px', maxWidth: '250px' }} />
+        <div className="row d-flex justify-content-center align-items-center text-center">
+          <div className="col-12 col-sm-6 col-md-4 mb-3">
+            <img src="IMAGES/68.jpeg" alt="" className="img-fluid rounded" style={{ maxHeight: '350px', maxWidth: '250px' }} />
+          </div>
+          <div className="col-12 col-sm-6 col-md-4 mb-3">
+            <img src="IMAGES/69.jpeg" alt="" className="img-fluid rounded" style={{ maxHeight: '350px', maxWidth: '250px' }} />
+          </div>
+          <div className="col-12 col-sm-6 col-md-4 mb-3">
+            <img src="IMAGES/70.jpeg" alt="" className="img-fluid rounded" style={{ maxHeight: '350px', maxWidth: '250px' }} />
+          </div>
         </div>
+
       </div>
 
     </>

@@ -9,7 +9,7 @@ function Header() {
             <div className="container-fluid d-flex align-items-center justify-content-between">
                 {/* Logo */}
                 <a href="#" className="logo navbar-brand">
-                    <img src="IMAGES/Myntra-Emblem-2048x1152.png" alt="Myntra Logo" style={{ width: '80px', height: '53px' }} />
+                    <img src="Myntra-Emblem-2048x1152.png" alt="Myntra Logo" style={{ width: '80px', height: '53px' }} />
                 </a>
 
                 {/* Toggler Button */}
